@@ -1,4 +1,4 @@
-**Model Evaluation Summary for Anomaly (Level of Risk)**
+**Model Evaluation Summary for Anomaly**
 
 ---
 
