@@ -44,6 +44,15 @@ PointwiseBoundedHoltWintersAdditive, PointwiseBoundedBATS,
 PointwiseBoundedBATSForceUpdate, WindowNN,
 WindowLOF, WindowPCA
 ```
+## 📁 Files and Folder Structure
+
+- `anomaly_notebooks/` – Jupyter notebooks for anomaly level classification pipelines.
+- `images/` – Visuals comparing pipeline performances.
+- `model_evals/` – Evaluation summaries:
+  - `risk_score_model_eval.md`
+  - `anomaly_model_eval.md`
+- `risk_score_notebooks/` – Jupyter notebooks for risk score prediction pipelines.
+- `metaversedata.csv` – Primary dataset used in this project.
 
 ## Results Summary
 
