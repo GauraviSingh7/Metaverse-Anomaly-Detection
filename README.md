@@ -57,6 +57,8 @@ WindowLOF, WindowPCA
   - `riskScoreP1__forecasting.ipynb`
   - `riskScoreIntegrated.ipynb`
 
+![Risk Score Pipelines](images/risk_score.jpg)
+
 ### Anomaly Classification
 
 - **Best Pipeline:** `Pipeline 2 (Forecasting)`
@@ -65,6 +67,8 @@ WindowLOF, WindowPCA
   - `anomalyP2__forecasting.ipynb`
   - `anomalyP6__relationship.ipynb`
   - `anomalyIntegrated.ipynb`
+
+![Anomaly Pipelines](images/anomaly.jpg)
 
 ## Contributions
 
